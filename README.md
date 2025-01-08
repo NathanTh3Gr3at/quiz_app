@@ -1,4 +1,4 @@
-# The Quizz App
+# The Quiz App
 <br />
 
 
